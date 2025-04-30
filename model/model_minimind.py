@@ -1,6 +1,8 @@
 # 📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘
 #                                             MiniMind Config
 # 📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘📘
+# MiniMind是一个基于Transformer架构的语言模型，支持混合专家模型(MoE)功能
+# 本文件包含MiniMind的配置类和模型实现
 
 from transformers import PretrainedConfig
 
